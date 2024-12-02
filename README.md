@@ -19,3 +19,7 @@ Download the brother P-Touch program from this link:
 https://download.brother.com/pub/com/p-touch/editor54015a/pew54015aus.exe
 
 After installation, you can open the lbx file with P-Touch. Search the part you want to print. Print!
+
+
+Inventory Management will be performed from:
+https://dhunited.canvusapps.com
