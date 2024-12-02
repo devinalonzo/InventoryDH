@@ -1,4 +1,9 @@
-Download each of the 3 files from tis github and place them on your desktop:
+Download each of the 3 files from this github by clicking the link then pressing the download button. Place them on your desktop.
+
+
+![image](https://github.com/user-attachments/assets/3d12082e-029c-40a5-baf5-d61a8df14bb8)
+
+
 
 Full Label.lbx:
 https://github.com/devinalonzo/InventoryDH/blob/main/Full%20Label.lbx
